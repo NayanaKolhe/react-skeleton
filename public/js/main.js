@@ -1,0 +1,1 @@
+console.error("SyntaxError: D:/Nayana/React_pract/react_skeleton/src/components/ListItem.js: Label 'https' is already declared (20:0) while parsing file: D:\\Nayana\\React_pract\\react_skeleton\\src\\components\\ListItem.js");
